@@ -1,3 +1,4 @@
-# primeirod_3t
+# teceiro trimestre
+conteudo : HTML,CSS e Javascript
 
 ## gabriely  N:10
